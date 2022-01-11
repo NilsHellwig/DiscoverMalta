@@ -8,9 +8,9 @@ DiscoverMalta is a fictional travel blog created with docsify, a simple document
 
 <br>
 <p align="center">
-  <img src="/doc_imgs/discovermalta1.png" width="33%">
-  <img src="/doc_imgs/discovermalta2.png" width="33%">
-  <img src="/doc_imgs/discovermalta3.png" width="33%">
+  <img src="/doc_imgs/discovermalta1.png" width="40%">
+  <img src="/doc_imgs/discovermalta2.png" width="40%">
+  <img src="/doc_imgs/discovermalta3.png" width="40%">
 </p>
 <br>
 
